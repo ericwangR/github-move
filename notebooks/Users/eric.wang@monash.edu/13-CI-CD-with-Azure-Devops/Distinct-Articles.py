@@ -66,8 +66,8 @@ print("Distinct Articles: {0:,}".format( totalArticles ))
 
 # COMMAND ----------
 
-display(df)
+# display(df)
 
 # COMMAND ----------
 
-display(df.select("article"))
+# display(df.select("article"))
